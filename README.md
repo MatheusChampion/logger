@@ -1,5 +1,17 @@
-# logger
-A tracking app used to track BMs for health reasons
+# 📊 A BM Tracking App for Health Monitoring! 🚀
+
+This project is a health-focused tracking app designed to help users monitor their bowel movements (BMs) for better health insights. Proper tracking can be an important indicator of overall digestive health, and this app makes it easy and intuitive to log and analyze trends.
+
+Key Features:
+
+✔️ Easy Logging – Users can quickly record BMs, including details like time, consistency, and any symptoms.
+
+✔️ Health Insights – Tracks patterns over time to help users understand their digestive health.
+
+✔️ Data Visualization – Displays trends and changes in a user-friendly way to support better health decisions.
+
+This project was a great opportunity to explore health tech, data tracking, and user-friendly app design. It reinforced my skills in frontend/backend communication, data handling, and UI/UX principles.
+
 
 ## Install backend and frontend dependancies:
 
