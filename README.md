@@ -50,6 +50,7 @@ Sample data is provided in the sampledata folder. These can be uploaded to Mongo
 ## Example:
 
 A preview version:
+
 ![Logger1!](./Logger_app/log_1.png)
 ![Logger2!](./Logger_app/log_2.png)
 ![Logger3!](./Logger_app/log_3.png)
