@@ -51,7 +51,7 @@ Sample data is provided in the sampledata folder. These can be uploaded to Mongo
 
 A preview version:
 
-<img src="https://github.com/MatheusChampion/logger/blob/main/Logger_app/log_1.png" width="150" height="280">
+<img src="https://github.com/MatheusChampion/logger/blob/main/Logger_app/log_1.png" width="315" height="462">
 ![Logger2!](./Logger_app/log_2.png)
 ![Logger3!](./Logger_app/log_3.png)
 ![Logger4!](./Logger_app/log_4.png)
