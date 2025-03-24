@@ -49,6 +49,15 @@ Sample data is provided in the sampledata folder. These can be uploaded to Mongo
 
 ## Example:
 
-Preview version of the app is available at:
+A preview version:
+![Logger1!](./Logger_app/log_1.png)
+![Logger2!](./Logger_app/log_2.png)
+![Logger3!](./Logger_app/log_3.png)
+![Logger4!](./Logger_app/log_4.png)
+![Logger5!](./Logger_app/log_5.png)
+![Logger6!](./Logger_app/log_6.png)
+![Logger7!](./Logger_app/log_7.png)
+
+A running preview version of the app is available at:
 [poop-logger.onrender.com](https://poop-logger.onrender.com/)
 
